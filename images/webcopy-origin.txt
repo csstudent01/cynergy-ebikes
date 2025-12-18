@@ -1,0 +1,276 @@
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js
+File Name: C:\Users\Terminator\Desktop\website2\www.cynergyebikes.com\ajax\libs\jquery\3.3.1\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css?family=Open Sans
+File Name: C:\Users\Terminator\Desktop\website2\www.cynergyebikes.com\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Open+Sans|
+File Name: C:\Users\Terminator\Desktop\website2\www.cynergyebikes.com\css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,400i,300,700,700i
+File Name: C:\Users\Terminator\Desktop\website2\www.cynergyebikes.com\css-2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+File Name: C:\Users\Terminator\Desktop\website2\www.cynergyebikes.com\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v22/6xK1dSBYKcSV-LCoeQqfX1RYOo3qPZ7nsDc.ttf
+File Name: C:\Users\Terminator\Desktop\website2\www.cynergyebikes.com\s\sourcesanspro\v22\6xK1dSBYKcSV-LCoeQqfX1RYOo3qPZ7nsDc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v22/6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7g.ttf
+File Name: C:\Users\Terminator\Desktop\website2\www.cynergyebikes.com\s\sourcesanspro\v22\6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7g.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v22/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZclSds18E.ttf
+File Name: C:\Users\Terminator\Desktop\website2\www.cynergyebikes.com\s\sourcesanspro\v22\6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZclSds18E.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwlxdr.ttf
+File Name: C:\Users\Terminator\Desktop\website2\www.cynergyebikes.com\s\sourcesanspro\v22\6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwlxdr.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zwlxdr.ttf
+File Name: C:\Users\Terminator\Desktop\website2\www.cynergyebikes.com\s\sourcesanspro\v22\6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zwlxdr.ttf
+Content Type: font/ttf
+
+Uri: https://www.cynergyebikes.com/
+File Name: C:\Users\Terminator\Desktop\website2\www.cynergyebikes.com\index.htm
+Content Type: text/html
+
+Uri: https://www.cynergyebikes.com/about/store-location-pg141.htm
+File Name: C:\Users\Terminator\Desktop\website2\www.cynergyebikes.com\about\store-location-pg141.htm
+Content Type: text/html
+
+Uri: https://www.cynergyebikes.com/articles/bike-service-repair-pg184.htm
+File Name: C:\Users\Terminator\Desktop\website2\www.cynergyebikes.com\articles\bike-service-repair-pg184.htm
+Content Type: text/html
+
+Uri: https://www.cynergyebikes.com/articles/bring-your-bike-in-for-a-tune-up-pg233.htm
+File Name: C:\Users\Terminator\Desktop\website2\www.cynergyebikes.com\articles\bring-your-bike-in-for-a-tune-up-pg233.htm
+Content Type: text/html
+
+Uri: https://www.cynergyebikes.com/articles/email-us-pg199.htm
+File Name: C:\Users\Terminator\Desktop\website2\www.cynergyebikes.com\articles\email-us-pg199.htm
+Content Type: text/html
+
+Uri: https://www.cynergyebikes.com/articles/how-to-care-for-your-electric-bike-pg206.htm
+File Name: C:\Users\Terminator\Desktop\website2\www.cynergyebikes.com\articles\how-to-care-for-your-electric-bike-pg206.htm
+Content Type: text/html
+
+Uri: https://www.cynergyebikes.com/articles/message-on-transition-from-the-owner-pg231.htm
+File Name: C:\Users\Terminator\Desktop\website2\www.cynergyebikes.com\articles\message-on-transition-from-the-owner-pg231.htm
+Content Type: text/html
+
+Uri: https://www.cynergyebikes.com/includes/js/ddSlick.js
+File Name: C:\Users\Terminator\Desktop\website2\www.cynergyebikes.com\includes\js\ddSlick.js
+Content Type: application/javascript
+
+Uri: https://www.cynergyebikes.com/includes/js/jquery/jquery-migrate-3.0.1.js
+File Name: C:\Users\Terminator\Desktop\website2\www.cynergyebikes.com\includes\js\jquery\jquery-migrate-3.0.1.js
+Content Type: application/javascript
+
+Uri: https://www.cynergyebikes.com/includes/responsive/common/css/se-structure.css?v=23b8627
+File Name: C:\Users\Terminator\Desktop\website2\www.cynergyebikes.com\includes\responsive\common\css\se-structure.css
+Content Type: text/css
+
+Uri: https://www.cynergyebikes.com/includes/responsive/common/fonts/fa-brands-400.ttf
+File Name: C:\Users\Terminator\Desktop\website2\www.cynergyebikes.com\includes\responsive\common\fonts\fa-brands-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://www.cynergyebikes.com/includes/responsive/common/fonts/fa-brands-400.woff2
+File Name: C:\Users\Terminator\Desktop\website2\www.cynergyebikes.com\includes\responsive\common\fonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://www.cynergyebikes.com/includes/responsive/common/fonts/fa-regular-400.ttf
+File Name: C:\Users\Terminator\Desktop\website2\www.cynergyebikes.com\includes\responsive\common\fonts\fa-regular-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://www.cynergyebikes.com/includes/responsive/common/fonts/fa-regular-400.woff2
+File Name: C:\Users\Terminator\Desktop\website2\www.cynergyebikes.com\includes\responsive\common\fonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://www.cynergyebikes.com/includes/responsive/common/fonts/fa-solid-900.ttf
+File Name: C:\Users\Terminator\Desktop\website2\www.cynergyebikes.com\includes\responsive\common\fonts\fa-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: https://www.cynergyebikes.com/includes/responsive/common/fonts/fa-solid-900.woff2
+File Name: C:\Users\Terminator\Desktop\website2\www.cynergyebikes.com\includes\responsive\common\fonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://www.cynergyebikes.com/includes/responsive/common/images/ajax-loader.gif
+File Name: C:\Users\Terminator\Desktop\website2\www.cynergyebikes.com\includes\responsive\common\images\ajax-loader.gif
+Content Type: image/gif
+
+Uri: https://www.cynergyebikes.com/includes/responsive/common/images/blank.gif
+File Name: C:\Users\Terminator\Desktop\website2\www.cynergyebikes.com\includes\responsive\common\images\blank.gif
+Content Type: image/gif
+
+Uri: https://www.cynergyebikes.com/includes/responsive/common/images/broken-image.png
+File Name: C:\Users\Terminator\Desktop\website2\www.cynergyebikes.com\includes\responsive\common\images\broken-image.png
+Content Type: image/png
+
+Uri: https://www.cynergyebikes.com/includes/responsive/common/images/grabbing.png
+File Name: C:\Users\Terminator\Desktop\website2\www.cynergyebikes.com\includes\responsive\common\images\grabbing.png
+Content Type: image/png
+
+Uri: https://www.cynergyebikes.com/includes/responsive/common/images/icon-arrow-left.png
+File Name: C:\Users\Terminator\Desktop\website2\www.cynergyebikes.com\includes\responsive\common\images\icon-arrow-left.png
+Content Type: image/png
+
+Uri: https://www.cynergyebikes.com/includes/responsive/common/images/icon-arrow-right.png
+File Name: C:\Users\Terminator\Desktop\website2\www.cynergyebikes.com\includes\responsive\common\images\icon-arrow-right.png
+Content Type: image/png
+
+Uri: https://www.cynergyebikes.com/includes/responsive/common/images/loading-image.gif
+File Name: C:\Users\Terminator\Desktop\website2\www.cynergyebikes.com\includes\responsive\common\images\loading-image.gif
+Content Type: image/gif
+
+Uri: https://www.cynergyebikes.com/includes/responsive/common/images/modal-loader.gif
+File Name: C:\Users\Terminator\Desktop\website2\www.cynergyebikes.com\includes\responsive\common\images\modal-loader.gif
+Content Type: image/gif
+
+Uri: https://www.cynergyebikes.com/includes/responsive/common/images/multiple_locations.gif
+File Name: C:\Users\Terminator\Desktop\website2\www.cynergyebikes.com\includes\responsive\common\images\multiple_locations.gif
+Content Type: image/gif
+
+Uri: https://www.cynergyebikes.com/includes/responsive/common/images/preloader.gif
+File Name: C:\Users\Terminator\Desktop\website2\www.cynergyebikes.com\includes\responsive\common\images\preloader.gif
+Content Type: image/gif
+
+Uri: https://www.cynergyebikes.com/includes/responsive/common/images/rs-default-inverted.png
+File Name: C:\Users\Terminator\Desktop\website2\www.cynergyebikes.com\includes\responsive\common\images\rs-default-inverted.png
+Content Type: image/png
+
+Uri: https://www.cynergyebikes.com/includes/responsive/common/images/zoomloader.gif
+File Name: C:\Users\Terminator\Desktop\website2\www.cynergyebikes.com\includes\responsive\common\images\zoomloader.gif
+Content Type: image/gif
+
+Uri: https://www.cynergyebikes.com/includes/responsive/common/js/se-structure.js?v=23b8627
+File Name: C:\Users\Terminator\Desktop\website2\www.cynergyebikes.com\includes\responsive\common\js\se-structure.js
+Content Type: application/javascript
+
+Uri: https://www.cynergyebikes.com/includes/responsive/gabe/css/gabe-style-green.css
+File Name: C:\Users\Terminator\Desktop\website2\www.cynergyebikes.com\includes\responsive\gabe\css\gabe-style-green.css
+Content Type: text/css
+
+Uri: https://www.cynergyebikes.com/includes/responsive/gabe/css/gabe-template.css?v=23b8627
+File Name: C:\Users\Terminator\Desktop\website2\www.cynergyebikes.com\includes\responsive\gabe\css\gabe-template.css
+Content Type: text/css
+
+Uri: https://www.cynergyebikes.com/includes/responsive/gabe/js/gabe-template-structure.js?v=23b8627
+File Name: C:\Users\Terminator\Desktop\website2\www.cynergyebikes.com\includes\responsive\gabe\js\gabe-template-structure.js
+Content Type: application/javascript
+
+Uri: https://www.cynergyebikes.com/page.cfm?pageid=199
+File Name: C:\Users\Terminator\Desktop\website2\www.cynergyebikes.com\page.cfm.html
+Content Type: text/html
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-DQSS2LNYDF
+File Name: C:\Users\Terminator\Desktop\website2\www.cynergyebikes.com\gtag\js
+Content Type: application/javascript
+
+Uri: https://www.sefiles.net/images/library/site/se-lib-lp-hero-service.jpg?t=1612381074208
+File Name: C:\Users\Terminator\Desktop\website2\www.cynergyebikes.com\images\library\site\se-lib-lp-hero-service.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sefiles.net/images/library/site/SE_LIB_WEB_ElectricBikeMaintenance23-background-slimC.jpg?t=1682007065290
+File Name: C:\Users\Terminator\Desktop\website2\www.cynergyebikes.com\images\library\site\SE_LIB_WEB_ElectricBikeMaintenance23-background-slimC.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sefiles.net/images/library/site/SE_LIB_WEB_ElectricBikeMaintenance23-textgraphic.png
+File Name: C:\Users\Terminator\Desktop\website2\www.cynergyebikes.com\images\library\site\SE_LIB_WEB_ElectricBikeMaintenance23-textgraphic.png
+Content Type: image/png
+
+Uri: https://www.sefiles.net/images/library/site/WS_LIB_WEB_TuneUp25-b-slimC.jpg?t=1724688462765
+File Name: C:\Users\Terminator\Desktop\website2\www.cynergyebikes.com\images\library\site\WS_LIB_WEB_TuneUp25-b-slimC.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sefiles.net/images/library/site/WS_LIB_WEB_TuneUp25-b.jpg?t=1724689388650
+File Name: C:\Users\Terminator\Desktop\website2\www.cynergyebikes.com\images\library\site\WS_LIB_WEB_TuneUp25-b.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sefiles.net/images/library/site/WS_LIB_WEB_TuneUp25-text-1.png
+File Name: C:\Users\Terminator\Desktop\website2\www.cynergyebikes.com\images\library\site\WS_LIB_WEB_TuneUp25-text-1.png
+Content Type: image/png
+
+Uri: https://www.sefiles.net/images/library/_common/airshipping_g.gif
+File Name: C:\Users\Terminator\Desktop\website2\www.cynergyebikes.com\images\library\_common\airshipping_g.gif
+Content Type: image/gif
+
+Uri: https://www.sefiles.net/images/library/_common/car_g.gif
+File Name: C:\Users\Terminator\Desktop\website2\www.cynergyebikes.com\images\library\_common\car_g.gif
+Content Type: image/gif
+
+Uri: https://www.sefiles.net/images/library/_common/ground_g.gif
+File Name: C:\Users\Terminator\Desktop\website2\www.cynergyebikes.com\images\library\_common\ground_g.gif
+Content Type: image/gif
+
+Uri: https://www.sefiles.net/images/library/_common/hourglass_g.gif
+File Name: C:\Users\Terminator\Desktop\website2\www.cynergyebikes.com\images\library\_common\hourglass_g.gif
+Content Type: image/gif
+
+Uri: https://www.sefiles.net/images/library/_common/scroll-track-bg.png
+File Name: C:\Users\Terminator\Desktop\website2\www.cynergyebikes.com\images\library\_common\scroll-track-bg.png
+Content Type: image/png
+
+Uri: https://www.sefiles.net/images/library/_common/se-royalslider-bullet.png
+File Name: C:\Users\Terminator\Desktop\website2\www.cynergyebikes.com\images\library\_common\se-royalslider-bullet.png
+Content Type: image/png
+
+Uri: https://www.sefiles.net/images/library/_common/zoom_icon.png
+File Name: C:\Users\Terminator\Desktop\website2\www.cynergyebikes.com\images\library\_common\zoom_icon.png
+Content Type: image/png
+
+Uri: https://www.sefiles.net/merchant/4405/css/footerStyles/9_Responsive_Footer_Single_Location.css?t=1742895883
+File Name: C:\Users\Terminator\Desktop\website2\www.cynergyebikes.com\merchant\4405\css\footerStyles\9_Responsive_Footer_Single_Location.css
+Content Type: text/css
+
+Uri: https://www.sefiles.net/merchant/4405/css/gabe/themes/theme_ry-gabe-4405.css
+File Name: C:\Users\Terminator\Desktop\website2\www.cynergyebikes.com\merchant\4405\css\gabe\themes\theme_ry-gabe-4405.css
+Content Type: text/css
+
+Uri: https://www.sefiles.net/merchant/4405/css/pageStyles/141_Store_Location.css?t=1742895374
+File Name: C:\Users\Terminator\Desktop\website2\www.cynergyebikes.com\merchant\4405\css\pageStyles\141_Store_Location.css
+Content Type: text/css
+
+Uri: https://www.sefiles.net/merchant/4405/css/pageStyles/202_Cynergy_Electric_Bikes__Portland__OR.css?t=1742895680
+File Name: C:\Users\Terminator\Desktop\website2\www.cynergyebikes.com\merchant\4405\css\pageStyles\202_Cynergy_Electric_Bikes__Portland__OR.css
+Content Type: text/css
+
+Uri: https://www.sefiles.net/merchant/4405/css/pageStyles/206_How_To_Care_For_Your_Electric_Bike.css?t=1742895478
+File Name: C:\Users\Terminator\Desktop\website2\www.cynergyebikes.com\merchant\4405\css\pageStyles\206_How_To_Care_For_Your_Electric_Bike.css
+Content Type: text/css
+
+Uri: https://www.sefiles.net/merchant/4405/css/pageStyles/233_Bring_Your_Bike_In_For_a_Tune_Up.css?t=1742866258
+File Name: C:\Users\Terminator\Desktop\website2\www.cynergyebikes.com\merchant\4405\css\pageStyles\233_Bring_Your_Bike_In_For_a_Tune_Up.css
+Content Type: text/css
+
+Uri: https://www.sefiles.net/merchant/4405/favicons/CynergyIcoWhiteBG.ico
+File Name: C:\Users\Terminator\Desktop\website2\www.cynergyebikes.com\merchant\4405\favicons\CynergyIcoWhiteBG.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://www.sefiles.net/merchant/4405/images/site/cassette_install-slimC.jpg?t=1702657277525
+File Name: C:\Users\Terminator\Desktop\website2\www.cynergyebikes.com\merchant\4405\images\site\cassette_install-slimC.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sefiles.net/merchant/4405/images/site/CynergyLogoSmWhiteBG-Tagline152x100.png
+File Name: C:\Users\Terminator\Desktop\website2\www.cynergyebikes.com\merchant\4405\images\site\CynergyLogoSmWhiteBG-Tagline152x100.png
+Content Type: image/png
+
+Uri: https://www.sefiles.net/merchant/4405/images/site/Cynergy_mural_web-slimC.jpg?t=1702773924459
+File Name: C:\Users\Terminator\Desktop\website2\www.cynergyebikes.com\merchant\4405\images\site\Cynergy_mural_web-slimC.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sefiles.net/merchant/4405/images/site/Talon_E-_7785-slimC.jpg?t=1710862672610
+File Name: C:\Users\Terminator\Desktop\website2\www.cynergyebikes.com\merchant\4405\images\site\Talon_E-_7785-slimC.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sefiles.net/merchant/4405/js/footerJS/9_Responsive_Footer_Single_Location.js?t=1742895883
+File Name: C:\Users\Terminator\Desktop\website2\www.cynergyebikes.com\merchant\4405\js\footerJS\9_Responsive_Footer_Single_Location.js
+Content Type: application/javascript
+

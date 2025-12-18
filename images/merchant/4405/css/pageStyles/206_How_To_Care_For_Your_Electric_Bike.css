@@ -1,0 +1,40 @@
+/* HEADER */
+.sePage .sePageMain {
+  margin-top: 0px;
+}
+
+/* FOOTER */
+.sePage .sePageFooter {
+  margin-top: 0px;
+}
+
+.sePageLayout .sePageFooter {
+  margin-top: 0;
+}
+
+.sePage .sePageLayout .sem-5col-section {
+  margin-bottom: 0;
+}
+.sePage .sePageLayout .sem-5col-section .col-margin-bottom {
+  margin-bottom: 10px;
+}
+@media (min-width: 1200px) {
+  .sePage .sePageLayout .sem-5col-section .col-lg-2 {
+    width: 20%;
+  }
+}
+
+.circle {
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  background: #067fbf;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+  color: #fff;
+  text-align: center;
+  font-weight: bold;
+  font-size: 22px;
+}

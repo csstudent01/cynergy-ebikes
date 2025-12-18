@@ -1,0 +1,25 @@
+﻿@font-face {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+  src: url(s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf)
+    format("truetype");
+  front-display:swap;
+}
+
+
+/* ===============================
+   Promo Banner (Tune-Ups)
+   =============================== */
+
+.promo-banner {
+    background-color: #e0ffe0;
+    padding: 20px;
+    text-align: center;
+}
+
+.promo-banner-title {
+    color: #006400;
+    margin: 0;
+}

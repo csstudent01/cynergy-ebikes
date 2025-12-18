@@ -1,0 +1,9 @@
+{
+    "editor.formatOnSave": false,
+    "editor.tabSize": 4,
+    "editor.insertSpaces": true,
+    "html.format.wrapLineLength": 0,
+    "html.format.wrapAttributes": "preserve",
+    "html.format.indentInnerHtml": true,
+    "html.format.preserveNewLines": true
+}
